@@ -1,0 +1,17 @@
+{
+  "name": "constructor-apply",
+  "repo": "darsain/constructor-apply",
+  "description": "Apply an arguments array to object constructor.",
+  "version": "0.1.0",
+  "tags": [
+    "new",
+    "constructor",
+    "apply",
+    "arguments"
+  ],
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
